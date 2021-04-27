@@ -1,7 +1,6 @@
 {
   "cards": [
-       {
-        "name": "pepe",
+       {       
         "lastName": "Juan",
         "email": "pepejuan22@gmail.com",
         "password": "12345",
