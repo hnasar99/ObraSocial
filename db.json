@@ -2,37 +2,23 @@
   "cards": [
        {
         "name": "pepe",
-
         "lastName": "Juan",
-
         "email": "pepejuan22@gmail.com",
-
         "password": "12345",
-
         "tipoDoc": "DU",
-
         "nroDoc": 29832933,
-
         "sistema": "1",
-
-        "tipoAfi": "T",
+        "tipoAfi": "T"
       },
       {
         "name": "Juan",
-
         "lastName": "Perez",
-
         "email": "jp44@gmail.com",
-
         "password": "54321",
-
         "tipoDoc": "DU",
-
         "nroDoc": 25298684,
-
         "sistema": "1",
-
-        "tipoAfi": "T",
+        "tipoAfi": "T"
       }
   ],
   "comments": [
