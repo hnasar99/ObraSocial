@@ -1,38 +1,38 @@
 {
   "cards": [
        {
-        name: "pepe",
+        "name": "pepe",
 
-        lastName: "Juan",
+        "lastName": "Juan",
 
-        email: "pepejuan22@gmail.com",
+        "email": "pepejuan22@gmail.com",
 
-        password: "12345",
+        "password": "12345",
 
-        tipoDoc: "DU",
+        "tipoDoc": "DU",
 
-        nroDoc: 29832933,
+        "nroDoc": 29832933,
 
-        sistema: "1",
+        "sistema": "1",
 
-        tipoAfi: "T",
+        "tipoAfi": "T",
       },
       {
-        name: "Juan",
+        "name": "Juan",
 
-        lastName: "Perez",
+        "lastName": "Perez",
 
-        email: "jp44@gmail.com",
+        "email": "jp44@gmail.com",
 
-        password: "54321",
+        "password": "54321",
 
-        tipoDoc: "DU",
+        "tipoDoc": "DU",
 
-        nroDoc: 25298684,
+        "nroDoc": 25298684,
 
-        sistema: "1",
+        "sistema": "1",
 
-        tipoAfi: "T",
+        "tipoAfi": "T",
       }
   ],
   "comments": [
