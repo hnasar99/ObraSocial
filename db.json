@@ -1,4 +1,4 @@
 [
-{"name": "pepe", "lastName": "Juan", "email": "pepejuan22@gmail.com", "password": "12345", "tipoDoc": "DU", "nroDoc": 29832933,"sistema": "1","tipoAfi": "T"},
-{"name": "Cacho","lastName": "Roberto","email": "roberto22@gmail.com","password": "65432","tipoDoc": "DU","nroDoc": 29834235,"sistema": "1","tipoAfi": "T"}
+{"name": "pepe", "lastName": "Juan", "email": "pepejuan22@gmail.com", "password": "12345", "tipoDoc": "DU", "nroDoc": '29832933',"sistema": "1","tipoAfi": "T"},
+{"name": "Cacho","lastName": "Roberto","email": "roberto22@gmail.com","password": "65432","tipoDoc": "DU","nroDoc": '29834235',"sistema": "1","tipoAfi": "T"}
 ]
