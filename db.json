@@ -1,5 +1,4 @@
-[
-      {
+{
         name: "pepe",
 
         lastName: "Juan",
@@ -14,7 +13,7 @@
 
         sistema: "1",
 
-        tipoAfi: "T",
+        tipoAfi: "T"
       },
       {
         name: "Juan",
@@ -31,6 +30,6 @@
 
         sistema: "1",
 
-        tipoAfi: "T",
+        tipoAfi: "T"
       }
-    ] 
+
