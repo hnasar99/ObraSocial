@@ -1,6 +1,14 @@
 {
-  "cards": [
-{"name": "pepe", "lastName": "Juan", "email": "pepejuan22@gmail.com", "password": "12345", "tipoDoc": "DU", "nroDoc": "29832933","sistema": "1","tipoAfi": "T"}
-{"name": "Cacho","lastName": "Roberto","email": "roberto22@gmail.com","password": "65432","tipoDoc": "DU","nroDoc": "29834235","sistema": "1","tipoAfi": "T"}
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
